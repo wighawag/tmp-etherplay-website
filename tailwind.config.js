@@ -6,7 +6,7 @@ module.exports = {
 
     },
     backgroundImage: () => ({
-      'ingame': "url('/images/Ingame1.jpg')",
+      'ingame': "url('../images/Ingame1.jpg')",
      })
   },
   variants: {},
