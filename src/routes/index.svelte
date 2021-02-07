@@ -104,11 +104,11 @@
       style="width:512px;"
       width="512px"/>
     <p class="m-6 0 text-xl text-gray-200">
-      Founded in 2016, Etherplay is a Blockchin Game Studio Based in Scotland Building Unstoppable Games running on <a class="text-green-400 underline" href="https://ethereum.org" target="_blank">ethereum</a>.
+      Founded in 2016, <span class="font-black">Etherplay</span> is a Blockchain Game Studio Based in Scotland Building Unstoppable Games running on <a class="text-green-400 underline" href="https://ethereum.org" target="_blank">ethereum</a>.
     </p>
 
     <p class="m-6 0 text-xl text-gray-200">
-      After being building the first game platform running live on ethereum back in 2016, we are back with new game ideas. One coming very soon.
+      After succesfully launched the first ever game platform running on Ethereum back in 2016, we are back with new game ideas. One coming very soon.
     </p>
 
      <p class="m-6 text-xl">
