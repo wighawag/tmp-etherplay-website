@@ -13,10 +13,10 @@
    version="1.1"
    id="svg3448"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="logo_with_dark_background.svg"
-   inkscape:export-filename="C:\dev\wighawag\etherplay-design\logo_padded_with_dark_background.png"
-   inkscape:export-xdpi="128.724"
-   inkscape:export-ydpi="128.724">
+   sodipodi:docname="maskable_icon.svg"
+   inkscape:export-filename="C:\dev\etherplay\new_website\public\maskable_icon_512x512.png"
+   inkscape:export-xdpi="86.698669"
+   inkscape:export-ydpi="86.698669">
   <defs
      id="defs3442" />
   <sodipodi:namedview
@@ -51,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
