@@ -24,7 +24,7 @@
       if (json.error) {
         throw new Error(json.error);
       }
-      outcome = { type: 'Success', message: 'Subscribed"'};
+      outcome = { type: 'Success', message: 'Subscribed!'};
       setTimeout(() => acknowledge(), 3000);
     } catch (e) {
       outcome = {type: 'Error', message: e.message || '' + e};
