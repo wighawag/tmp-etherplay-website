@@ -96,13 +96,13 @@
 <!-- style="background-image:'images/Ingame1.jpg';" -->
 <!-- bg-gradient-to-r from-yellow-400 via-red-500 to-pink-500 -->
 <section class="py-8 px-4 text-center bg-opacity-60 bg-black" >
-  <div class="max-w-auto mx-auto md:max-w-xl text-gray-100" >
+  <div class="max-w-auto mx-auto md:max-w-lg text-gray-100" >
     <img
       class="mt-12 mb-8 mx-auto"
       src="logo_wide_with_text_on_black.png"
       alt={name}
-      style="width:550px;"
-      width="550px"/>
+      style="width:512px;"
+      width="512px"/>
     <p class="m-6 0 text-xl text-gray-200">
       Founded in 2016, <span class="font-black">Etherplay</span> is a Blockchain Game Studio Based in Scotland Building Unstoppable Games running on <a class="text-green-400 underline" href="https://ethereum.org" target="_blank">ethereum</a>.
     </p>

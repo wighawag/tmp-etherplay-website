@@ -6858,10 +6858,10 @@ slice-ansi@^4.0.0:
     astral-regex "^2.0.0"
     is-fullwidth-code-point "^3.0.0"
 
-snowpack-plugin-folder2routes@^0.1.0:
-  version "0.1.0"
-  resolved "https://registry.yarnpkg.com/snowpack-plugin-folder2routes/-/snowpack-plugin-folder2routes-0.1.0.tgz#4b2c53d77b3a0d810902a118a3418b4d847c8117"
-  integrity sha512-nfwF4P9mAH/hAHB3S7+K6KuX3uOuBNL/E+PqhlLwR8zaNA6MhIt8l3qT0bQNg2nHy6NaFnwwwZEk7ClBsV0syA==
+snowpack-plugin-folder2routes@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/snowpack-plugin-folder2routes/-/snowpack-plugin-folder2routes-0.1.1.tgz#a4b515ed65ecb29815bbd5cf6fe607a0fa6d7486"
+  integrity sha512-/hmyQk2fQOjqILYH0nkOHLxTnYGuqYk+l2AMRfkYrGYxz7FB2aqhLj11WEi/sIpMSeqBK5KE+GSaQaeQ8GnwEA==
   dependencies:
     fs-extra "^9.0.1"
     handlebars "^4.7.6"
