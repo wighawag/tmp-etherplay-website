@@ -7,28 +7,28 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="115mm"
-   height="102.64224mm"
-   viewBox="0 0 115 102.64224"
+   width="160mm"
+   height="160mm"
+   viewBox="0 0 160.00001 160"
    version="1.1"
    id="svg3448"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
-   sodipodi:docname="logo.svg"
-   inkscape:export-filename="C:\dev\wighawag\etherplay-design\logo.png"
-   inkscape:export-xdpi="128.724"
-   inkscape:export-ydpi="128.724">
+   sodipodi:docname="logo_in_black_circle.svg"
+   inkscape:export-filename="C:\dev\wighawag\etherplay-design\logo_in_black_circle.png"
+   inkscape:export-xdpi="128.72403"
+   inkscape:export-ydpi="128.72403">
   <defs
      id="defs3442" />
   <sodipodi:namedview
      id="base"
-     pagecolor="#333333"
+     pagecolor="#282828"
      bordercolor="#666666"
      borderopacity="1.0"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="273.99305"
-     inkscape:cy="235.07054"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="208.79167"
+     inkscape:cy="551.90139"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -58,10 +58,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-43.691544,-71.180223)">
+     transform="translate(-24.933319,-42.501343)">
+    <circle
+       style="fill:#333333;fill-opacity:1;stroke:none;stroke-width:73.0491"
+       id="path836"
+       cx="104.93332"
+       cy="122.50134"
+       r="80" />
     <g
        id="g2361"
-       transform="matrix(0.99609269,0,0,0.99609269,265.4974,87.064994)">
+       transform="matrix(0.9960927,0,0,0.9960927,261.8308,87.064993)">
       <path
          inkscape:export-ydpi="128.72403"
          inkscape:export-xdpi="128.72403"
