@@ -11,5 +11,9 @@
   "appleStatusBarStyle": "black-translucent",
   "display": "fullscreen",
   "icon": "icon.svg",
-  "maskable_icon": "android-chrome-512x512.png"
+  "maskable_icons": [{
+    "src": "maskable_icon.svg",
+    "type": "image/svg",
+    "sizes": "192x192 512x512"
+  }]
 }
