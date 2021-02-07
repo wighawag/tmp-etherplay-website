@@ -118,7 +118,7 @@
     <!-- Check it out and register <a class="text-blue-500 underline" href="https://conquest.eth.link">there</a> to be on the waiting list for the alpha release -->
 
      <p class="m-6 mt-12 text-xl">
-      Stay in the loop by registering to our newsletter:
+      Stay in the loop by subscribing to our newsletter:
      </p>
      <div class="max-w-md mx-auto mt-5 space-y-3 md:mt-8 md:space-y-5">
       <form id="subscribeForm" action="https://etherplay-newsletter-subscription.rim.workers.dev/" method="POST" class="sm:max-w-xl sm:mx-auto lg:mx-0">
