@@ -48,7 +48,7 @@
   }
 </style>
 
-<div class="fixed inset-0 flex items-end justify-center px-4 py-6 pointer-events-none sm:p-6 sm:items-start sm:justify-end z-50">
+<div class="fixed inset-0 flex items-end justify-center px-4 py-6 pointer-events-none sm:p-6 sm:items-start sm:justify-end z-40">
   {#if outcome}
   <div class="max-w-sm w-full bg-white shadow-lg rounded-lg pointer-events-auto ring-1 ring-black ring-opacity-5 overflow-hidden">
     <div class="p-4">
@@ -111,13 +111,18 @@
       After succesfully launched the first ever <span class="font-black">play and earn</span> game platform on Ethereum back in 2016 (with a total of 70 ETH rewarded to our players), we are back with new game ideas.
     </p>
 
-    <p class="m-6 0 text-xl text-gray-200">
+    <!-- <p class="m-6 0 text-xl text-gray-200">
       Our latest is <a class="text-blue-500 underline" href="https://conquest.eth.link">conquest.eth</a>. A open ended game of strategy and diplomacy.
+    </p> -->
+
+    <p class="m-6 mt-12 0 text-xl text-green-400">
+      Our Latest Game Is Coming Soon...
     </p>
 
     <!-- Check it out and register <a class="text-blue-500 underline" href="https://conquest.eth.link">there</a> to be on the waiting list for the alpha release -->
 
-     <p class="m-6 mt-12 text-xl">
+     <p class="m-6 text-xl">
+      <!-- <p class="m-6 mt-12 text-xl"> -->
       Stay in the loop by subscribing to our newsletter:
      </p>
      <div class="max-w-md mx-auto mt-5 space-y-3 md:mt-8 md:space-y-5">
@@ -138,12 +143,12 @@
             </NavButton>
           </div>
         </div>
-        <div class="flex items-center">
+        <!-- <div class="flex items-center">
           <input id="conquest_list" name="conquest_list" type="checkbox" class="mt-2 h-5 w-5 text-gray-100 focus:ring-gray-500 border-gray-300 rounded">
           <label for="conquest_list" class="mt-2 ml-2 block text-gray-100">
             register for conquest.eth alpha waiting list
           </label>
-        </div>
+        </div> -->
       </form>
      </div>
 
