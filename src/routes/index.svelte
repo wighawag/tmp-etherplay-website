@@ -192,7 +192,7 @@
         </a>
       </div>
       <p class="mt-8 text-base text-gray-400 md:mt-0 md:order-1">
-        &copy; 2016-2020 Etherplay Entertainment Limited All rights reserved.
+        &copy; 2016-2021 Etherplay Entertainment Limited All rights reserved.
       </p>
     </div>
   </div>
